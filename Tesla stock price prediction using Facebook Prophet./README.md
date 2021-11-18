@@ -1,11 +1,3 @@
 # Tesla stock price prediction 
 
-
-- Importing all the necessary libraries
-- Importing the dataset from Yahoo Finance
-- Data Visualization using Plotly express
-- Data Preparation & Modelling
-- Forecasting
-- Forecast Evaluation using Google Finance in Google Sheets
-- Conclusion-  Stock Analysis of Tesla using Yahoo Finance
-- Automating stock forecasting- for other stocks
+Dataset from Yahoo Finanace ( from 2020-11-17 to 2021-11-16 )
