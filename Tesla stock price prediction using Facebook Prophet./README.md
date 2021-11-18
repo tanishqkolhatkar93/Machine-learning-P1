@@ -1,6 +1,6 @@
 # Tesla stock price prediction 
 
-## using Facebook Prophet.
+![alt text](https://unsplash.com/photos/s5oNGNlmSMM)
 
 - Importing all the necessary libraries
 - Importing the dataset from Yahoo Finance
