@@ -8,4 +8,4 @@
 *   Model Training
 
 #### KNN ALGORITHM
-The accuracy is 100.0 %
+*      The accuracy is 100.0 %
